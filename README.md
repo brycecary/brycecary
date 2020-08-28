@@ -1,12 +1,17 @@
-[![TopMastered](http://assets.brycecary.tech/banner/banner_black.png)](http://brycecary.tech)
+[![TopMastered](https://assets.brycecary.dev/banner/banner_black.png)](http://brycecary.tech)
 
 ## About Me
 
 I'm a Full-Stack Developer and Lead Programmer for FRC Team [@cavineers](https://github.com/cavineers), Linux user, Amateur Radio Operator, and a Verified Discord Bot Developer.
 
+## Favorite Projects
+[FRC Robotics](https://github.com/cavineers) - _Competition Robotics Code for my FRC team_
+
+[Uptime](https://uptime.brycecary.dev) - _Uptime is a Discord bot that tracks how much time of your life you spend glued to Discord._
+
 ## Where to find me
 
-**My Website:** [brycecary.tech](http://brycecary.tech)
+**My Website:** [brycecary.dev](https://brycecary.dev)
 
 **Twitter:** [@TopMastered](https://twitter.com/TopMastered)
 
