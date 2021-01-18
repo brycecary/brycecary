@@ -1,4 +1,4 @@
-[![TopMastered](https://assets.brycecary.dev/banner/banner_black.png)](http://brycecary.tech)
+[![TopMastered](https://assets.brycecary.dev/banner/banner_black.png)](https://brycecary.dev)
 
 ## About Me
 
@@ -19,4 +19,4 @@ I'm a Full-Stack Developer and Lead Programmer for FRC Team [@cavineers](https:/
 
 **My Discord:** [/KZzEZ2X](https://discord.gg/KZzEZ2X)
 
-**My Email:** [bcary.md@gmail.com](mailto:bcary.md@gmail.com)
+**My Email:** [bryce@brycecary.dev](mailto:bryce@brycecary.dev)
