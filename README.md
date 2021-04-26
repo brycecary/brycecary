@@ -7,7 +7,7 @@ I'm a Full-Stack Developer and Lead Programmer for FRC Team [@cavineers](https:/
 ## Favorite Projects
 [FRC Robotics](https://github.com/cavineers) - _Competition Robotics Code for my FRC team_
 
-[Uptime](https://uptime.brycecary.dev) - _Uptime is a Discord bot that tracks how much time of your life you spend glued to Discord._
+[Uptime](https://adduptime.net) - _Uptime is a Discord bot that tracks how much time of your life you spend glued to Discord._
 
 ## Where to find me
 
