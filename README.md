@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=brycecary&count_private=true&show_icons=true&theme=onedark" />
 
-I'm a Software Engineer, Linux user, Amateur Radio Operator, Verified Discord Bot Developer, FRC Alum.
+I'm a Software Engineer, Linux user, Amateur Radio Operator, Verified Discord Bot Developer, Scouter, and FRC Alum.
 
 ## Contact
 
