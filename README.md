@@ -1,4 +1,4 @@
-[![TopMastered](https://assets.brycecary.dev/banner/banner_blue.png)](https://brycecary.dev)
+[![TopMastered](https://assets.brycecary.dev/banner/v2/banner_v2_se_blue.png)](https://brycecary.dev)
 
 ## About Me
 
@@ -7,8 +7,6 @@
 I'm a Software Engineer, Linux user, Amateur Radio Operator, Verified Discord Bot Developer, FRC Alum.
 
 ## Contact
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 **Website:** [brycecary.dev](https://brycecary.dev)
 
