@@ -1,8 +1,8 @@
-[![TopMastered](https://assets.brycecary.dev/banner/v2/banner_v2_se_blue.png)](https://brycecary.dev)
+[![BryceCary](https://assets.brycecary.dev/banner/v2/banner_v2_se_blue.png)](https://brycecary.dev)
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=topmastered&count_private=true&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=brycecary&count_private=true&show_icons=true&theme=onedark" />
 
 I'm a Software Engineer, Linux user, Amateur Radio Operator, Verified Discord Bot Developer, FRC Alum.
 
