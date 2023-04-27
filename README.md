@@ -21,7 +21,8 @@ I'm a Software Engineer, Linux user, Amateur Radio Operator, Verified Discord Bo
 ## Current Projects
 
 [Uptime](https://adduptime.net) - _Uptime is a Discord bot that tracks how much time of your life you spend glued to Discord._
+[Deploy](https://github.com/brycecary/Deploy) - _Deploy is a lightweight script for automatically deploying repos._
 
 ## Past Projects
 
-[FRC Robotics](https://github.com/cavineers) - _First Robotics Competition code, written in Java (2018-2021)_
+[FRC Robotics](https://github.com/cavineers) - _FIRST Robotics Competition code, written in Java (2018-2021)_
