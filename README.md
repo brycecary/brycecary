@@ -21,6 +21,7 @@ I'm a Software Engineer, Linux user, Amateur Radio Operator, Verified Discord Bo
 ## Current Projects
 
 [Uptime](https://adduptime.net) - _Uptime is a Discord bot that tracks how much time of your life you spend glued to Discord._
+
 [Deploy](https://github.com/brycecary/Deploy) - _Deploy is a lightweight script for automatically deploying repos._
 
 ## Past Projects
